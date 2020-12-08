@@ -1,3 +1,3 @@
-# bookish-octo-waffle
----- SPACE SHOOTER ----
-this is html5 game for LINE LIFF TUTORIAL
+# Space-Shooter
+
+Repositori ini berisi contoh project Space Shooter yang digunakan di Academy LINE LIFF.
